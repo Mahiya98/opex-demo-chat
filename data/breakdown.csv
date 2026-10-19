@@ -1,0 +1,321 @@
+breakdown_id,date,plant,machine,category,cause,start_time,end_time,downtime_hours,production_loss_tonnes,maintenance_cost_usd,status,owner
+BD-0242,2026-01-01,Plant B,Conveyor-03,Utility,Sensor fault,00:15,02:46,2.52,22,6350.07,Closed,R. Das
+BD-0020,2026-01-02,Plant B,Kiln-01,Instrumentation,Sensor fault,22:15,01:24,3.16,46,7966.75,Closed,M. Iqbal
+BD-0042,2026-01-03,Plant A,Mill-01,Operational,Control card fault,15:15,17:12,1.96,36,6819.78,Open,P. Sen
+BD-0037,2026-01-04,Plant A,Mill-02,Mechanical,Motor overload,16:15,17:09,0.91,18,5422.21,Closed,K. Nair
+BD-0038,2026-01-04,Plant B,Kiln-01,Mechanical,Sensor fault,21:45,22:41,0.94,15,5884.6,Closed,P. Sen
+BD-0119,2026-01-04,Plant A,Kiln-01,Electrical,Hydraulic leak,13:15,16:22,3.13,36,5156.16,Closed,P. Sen
+BD-0209,2026-01-04,Plant A,Mill-02,Mechanical,Sensor fault,17:30,18:00,0.5,9,5983.05,Closed,M. Iqbal
+BD-0011,2026-01-07,Plant C,Compressor-02,Utility,Power trip,06:45,07:15,0.5,4,966.97,Closed,K. Nair
+BD-0019,2026-01-07,Plant A,Mill-02,Electrical,Sensor fault,06:45,07:15,0.5,10,2679.57,Closed,P. Sen
+BD-0073,2026-01-08,Plant B,Packer-01,Instrumentation,Power trip,14:00,18:45,4.75,40,2646.93,Closed,R. Das
+BD-0007,2026-01-09,Plant A,Packer-02,Utility,Motor overload,22:30,07:19,8.83,83,1062.4,Closed,P. Sen
+BD-0034,2026-01-10,Plant B,Kiln-01,Electrical,Coupling wear,22:30,02:33,4.06,53,7011.29,Closed,P. Sen
+BD-0254,2026-01-11,Plant A,Packer-01,Utility,Cooling fan failure,18:45,21:37,2.87,23,529.96,Closed,R. Das
+BD-0287,2026-01-13,Plant A,Kiln-01,Instrumentation,Hydraulic leak,01:15,05:43,4.48,53,4858.08,Closed,P. Sen
+BD-0058,2026-01-14,Plant B,Kiln-01,Instrumentation,Sensor fault,11:45,12:45,1.0,13,5418.89,Open,S. Roy
+BD-0142,2026-01-14,Plant A,Mill-02,Electrical,Sensor fault,09:45,12:25,2.67,49,7248.26,Closed,T. Ahmed
+BD-0118,2026-01-15,Plant C,Kiln-02,Utility,Coupling wear,07:15,07:45,0.5,8,4554.15,Closed,T. Ahmed
+BD-0299,2026-01-15,Plant A,Packer-01,Utility,Bearing failure,12:15,14:03,1.8,15,2559.4,Closed,M. Iqbal
+BD-0169,2026-01-16,Plant C,Kiln-02,Electrical,Power trip,06:45,07:15,0.5,7,6025.85,Closed,S. Roy
+BD-0214,2026-01-16,Plant B,Compressor-01,Utility,Sensor fault,10:15,13:49,3.57,29,5234.39,Open,K. Nair
+BD-0258,2026-01-16,Plant C,Mill-01,Instrumentation,Cooling fan failure,12:00,14:33,2.55,62,422.64,Closed,P. Sen
+BD-0061,2026-01-19,Plant C,Packer-01,Utility,Control card fault,00:15,03:38,3.39,30,3109.68,Closed,M. Iqbal
+BD-0148,2026-01-19,Plant A,Packer-01,Instrumentation,Power trip,16:15,16:45,0.5,3,7719.17,Closed,P. Sen
+BD-0048,2026-01-20,Plant B,Compressor-01,Mechanical,Coupling wear,15:15,15:45,0.5,4,3805.68,Closed,P. Sen
+BD-0166,2026-01-20,Plant A,Packer-02,Electrical,Control card fault,12:15,12:45,0.5,3,3621.78,Closed,R. Das
+BD-0014,2026-01-21,Plant A,Packer-01,Electrical,Power trip,15:15,15:45,0.5,4,7855.48,Closed,S. Roy
+BD-0204,2026-01-21,Plant B,Packer-01,Instrumentation,Motor overload,12:15,13:25,1.17,9,5231.27,Closed,T. Ahmed
+BD-0051,2026-01-23,Plant B,Conveyor-03,Electrical,Power trip,05:15,05:45,0.5,5,2623.23,Closed,M. Iqbal
+BD-0224,2026-01-28,Plant A,Mill-02,Utility,Sensor fault,04:00,04:30,0.5,9,3134.33,Closed,P. Sen
+BD-0289,2026-01-28,Plant C,Kiln-02,Electrical,Coupling wear,22:15,22:45,0.5,7,4914.98,Closed,T. Ahmed
+BD-0155,2026-01-29,Plant A,Kiln-01,Electrical,Control card fault,10:45,21:28,10.72,178,4954.6,Closed,M. Iqbal
+BD-0175,2026-01-29,Plant C,Mill-01,Mechanical,Control card fault,18:30,23:42,5.2,116,1670.38,Closed,P. Sen
+BD-0153,2026-01-30,Plant C,Mill-01,Electrical,Blocked chute,22:45,00:28,1.73,41,5703.77,Closed,M. Iqbal
+BD-0315,2026-02-02,Plant C,Packer-01,Instrumentation,Cooling fan failure,01:30,04:42,3.2,24,3121.24,Open,K. Nair
+BD-0109,2026-02-04,Plant C,Conveyor-01,Instrumentation,Coupling wear,17:45,20:38,2.89,18,6996.81,Closed,M. Iqbal
+BD-0094,2026-02-06,Plant C,Mill-01,Operational,Control card fault,17:30,19:00,1.51,30,4498.14,Open,S. Roy
+BD-0188,2026-02-07,Plant B,Packer-01,Utility,Belt slip,00:45,04:28,3.72,23,747.12,Open,S. Roy
+BD-0154,2026-02-08,Plant B,Kiln-01,Electrical,Coupling wear,12:15,12:45,0.5,5,7683.5,Closed,R. Das
+BD-0018,2026-02-11,Plant C,Mill-01,Instrumentation,Motor overload,01:00,03:45,2.75,63,1161.25,Closed,M. Iqbal
+BD-0306,2026-02-11,Plant A,Kiln-01,Mechanical,Hydraulic leak,07:00,08:09,1.16,16,2372.01,Closed,T. Ahmed
+BD-0079,2026-02-13,Plant A,Kiln-01,Mechanical,Belt slip,19:30,21:49,2.32,31,3849.56,Closed,P. Sen
+BD-0035,2026-02-14,Plant A,Packer-01,Instrumentation,Cooling fan failure,12:00,14:16,2.28,22,4627.96,Closed,R. Das
+BD-0074,2026-02-14,Plant C,Packer-01,Instrumentation,Motor overload,04:45,13:31,8.77,54,3281.25,Closed,K. Nair
+BD-0143,2026-02-14,Plant A,Mill-01,Electrical,Hydraulic leak,17:00,01:51,8.85,212,5966.96,Closed,M. Iqbal
+BD-0141,2026-02-16,Plant B,Packer-01,Instrumentation,Motor overload,05:00,09:56,4.94,45,2925.62,Closed,K. Nair
+BD-0088,2026-02-17,Plant C,Mill-01,Operational,Sensor fault,06:15,08:00,1.75,42,6966.93,Closed,T. Ahmed
+BD-0173,2026-02-17,Plant A,Kiln-01,Utility,Motor overload,19:45,22:42,2.95,32,7658.22,Open,T. Ahmed
+BD-0149,2026-02-18,Plant B,Mill-01,Utility,Coupling wear,14:15,15:00,0.76,15,572.6,Closed,P. Sen
+BD-0308,2026-02-19,Plant C,Kiln-02,Mechanical,Hydraulic leak,12:30,17:29,4.99,73,6738.08,Open,P. Sen
+BD-0026,2026-02-20,Plant C,Packer-01,Instrumentation,Blocked chute,06:00,07:08,1.14,7,1404.41,Closed,M. Iqbal
+BD-0257,2026-02-22,Plant C,Conveyor-01,Electrical,Hydraulic leak,08:00,12:39,4.66,36,3485.09,Closed,S. Roy
+BD-0110,2026-02-23,Plant A,Kiln-01,Utility,Cooling fan failure,04:00,04:40,0.67,10,6802.37,Closed,T. Ahmed
+BD-0105,2026-02-26,Plant A,Mill-01,Instrumentation,Coupling wear,04:30,09:45,5.26,112,4891.74,Closed,P. Sen
+BD-0236,2026-02-27,Plant A,Conveyor-02,Electrical,Cooling fan failure,05:00,08:18,3.31,24,3697.21,Closed,K. Nair
+BD-0135,2026-02-28,Plant C,Compressor-02,Instrumentation,Belt slip,09:30,15:27,5.95,56,4539.33,Closed,M. Iqbal
+BD-0212,2026-02-28,Plant C,Mill-01,Mechanical,Power trip,15:45,18:10,2.42,48,2471.97,Closed,S. Roy
+BD-0004,2026-03-01,Plant A,Packer-01,Mechanical,Power trip,02:30,06:52,4.37,28,2171.41,Closed,K. Nair
+BD-0294,2026-03-03,Plant A,Packer-02,Electrical,Cooling fan failure,05:15,05:45,0.5,4,3410.4,Open,M. Iqbal
+BD-0039,2026-03-06,Plant C,Conveyor-01,Utility,Bearing failure,14:00,16:52,2.87,27,7312.07,Closed,M. Iqbal
+BD-0122,2026-03-06,Plant B,Kiln-01,Mechanical,Hydraulic leak,05:30,10:19,4.83,75,5717.11,Closed,R. Das
+BD-0183,2026-03-06,Plant A,Packer-01,Utility,Belt slip,21:30,00:23,2.89,20,5940.69,Closed,S. Roy
+BD-0211,2026-03-07,Plant A,Kiln-01,Mechanical,Hydraulic leak,11:45,18:04,6.33,90,3798.21,Closed,K. Nair
+BD-0218,2026-03-07,Plant A,Mill-01,Operational,Power trip,10:00,11:26,1.44,29,5157.49,Closed,T. Ahmed
+BD-0108,2026-03-08,Plant A,Packer-02,Utility,Motor overload,14:30,15:17,0.79,5,6496.15,Closed,P. Sen
+BD-0232,2026-03-08,Plant B,Conveyor-03,Instrumentation,Belt slip,16:00,19:04,3.08,22,4492.04,Closed,S. Roy
+BD-0136,2026-03-09,Plant B,Conveyor-03,Utility,Cooling fan failure,21:30,22:00,0.5,5,5215.12,Closed,R. Das
+BD-0252,2026-03-09,Plant A,Packer-01,Operational,Sensor fault,21:15,03:11,5.94,48,1685.99,Closed,S. Roy
+BD-0248,2026-03-11,Plant A,Conveyor-02,Electrical,Coupling wear,01:30,02:00,0.5,3,7001.34,Closed,T. Ahmed
+BD-0253,2026-03-11,Plant C,Conveyor-01,Instrumentation,Blocked chute,01:45,06:10,4.43,29,4860.26,Closed,P. Sen
+BD-0101,2026-03-15,Plant C,Mill-01,Utility,Control card fault,19:15,20:49,1.58,39,7367.94,Closed,K. Nair
+BD-0164,2026-03-16,Plant B,Mill-01,Utility,Hydraulic leak,07:00,07:30,0.5,12,3595.96,Closed,T. Ahmed
+BD-0192,2026-03-17,Plant A,Packer-01,Electrical,Belt slip,10:15,10:47,0.54,5,6045.07,Closed,K. Nair
+BD-0194,2026-03-17,Plant A,Mill-01,Electrical,Cooling fan failure,17:45,19:01,1.28,30,7943.09,Closed,P. Sen
+BD-0246,2026-03-17,Plant B,Compressor-01,Operational,Blocked chute,19:15,22:45,3.51,30,285.59,Closed,P. Sen
+BD-0015,2026-03-18,Plant C,Mill-01,Operational,Coupling wear,05:00,06:49,1.82,28,6782.89,Closed,M. Iqbal
+BD-0207,2026-03-18,Plant A,Packer-02,Operational,Sensor fault,17:30,20:54,3.41,21,3803.02,Closed,M. Iqbal
+BD-0115,2026-03-20,Plant B,Conveyor-03,Electrical,Control card fault,01:15,01:45,0.5,3,4392.09,Closed,T. Ahmed
+BD-0097,2026-03-21,Plant B,Packer-01,Instrumentation,Blocked chute,11:45,14:51,3.11,19,2477.58,Closed,K. Nair
+BD-0066,2026-03-22,Plant A,Kiln-01,Mechanical,Bearing failure,18:45,23:07,4.37,61,6823.29,Closed,T. Ahmed
+BD-0267,2026-03-22,Plant A,Mill-02,Electrical,Sensor fault,02:30,07:25,4.93,103,830.89,Open,S. Roy
+BD-0056,2026-03-23,Plant A,Packer-01,Electrical,Coupling wear,03:15,10:43,7.48,60,5464.46,Closed,R. Das
+BD-0067,2026-03-23,Plant A,Kiln-01,Operational,Motor overload,05:45,06:15,0.5,5,7093.02,Closed,P. Sen
+BD-0280,2026-03-23,Plant C,Conveyor-01,Utility,Power trip,00:30,02:09,1.66,12,5712.44,Closed,K. Nair
+BD-0012,2026-03-24,Plant B,Compressor-01,Mechanical,Blocked chute,06:15,06:45,0.5,3,3273.69,Closed,P. Sen
+BD-0065,2026-03-25,Plant C,Conveyor-01,Electrical,Sensor fault,03:45,04:19,0.58,3,6076.04,Closed,K. Nair
+BD-0255,2026-03-25,Plant C,Mill-01,Electrical,Power trip,02:00,02:30,0.5,8,196.2,Closed,S. Roy
+BD-0095,2026-03-26,Plant B,Kiln-01,Mechanical,Cooling fan failure,02:15,03:30,1.26,17,5378.17,Closed,P. Sen
+BD-0013,2026-03-27,Plant A,Packer-02,Operational,Coupling wear,20:30,08:30,12,94,1901.9,Closed,M. Iqbal
+BD-0069,2026-03-27,Plant C,Compressor-02,Electrical,Cooling fan failure,17:15,17:45,0.5,3,6670.17,Closed,R. Das
+BD-0070,2026-03-27,Plant A,Kiln-01,Utility,Blocked chute,13:00,19:37,6.62,77,4100.67,Closed,P. Sen
+BD-0116,2026-03-27,Plant A,Kiln-01,Utility,Power trip,06:15,13:23,7.14,80,4255.19,Open,M. Iqbal
+BD-0064,2026-03-30,Plant A,Packer-01,Instrumentation,Hydraulic leak,01:00,01:39,0.66,6,4951.07,Closed,K. Nair
+BD-0190,2026-03-30,Plant B,Compressor-01,Operational,Cooling fan failure,09:45,10:25,0.68,6,6885.13,Closed,P. Sen
+BD-0078,2026-03-31,Plant A,Packer-01,Instrumentation,Hydraulic leak,08:15,10:34,2.32,16,803.17,Closed,R. Das
+BD-0208,2026-04-01,Plant C,Conveyor-01,Mechanical,Sensor fault,05:30,09:28,3.97,26,6507.82,Closed,P. Sen
+BD-0001,2026-04-02,Plant B,Kiln-01,Utility,Coupling wear,10:15,14:41,4.44,60,7305.35,Closed,K. Nair
+BD-0032,2026-04-02,Plant A,Packer-02,Instrumentation,Blocked chute,19:15,20:33,1.31,11,4830.62,Closed,S. Roy
+BD-0311,2026-04-03,Plant C,Compressor-02,Instrumentation,Cooling fan failure,13:30,14:13,0.72,5,6417.74,Closed,T. Ahmed
+BD-0159,2026-04-04,Plant B,Kiln-01,Utility,Blocked chute,06:30,07:11,0.69,7,7132.99,Closed,S. Roy
+BD-0243,2026-04-05,Plant A,Kiln-01,Operational,Belt slip,09:30,15:02,5.54,58,7303.08,Closed,T. Ahmed
+BD-0161,2026-04-06,Plant C,Conveyor-01,Electrical,Blocked chute,04:30,11:29,6.99,63,4470.72,Closed,S. Roy
+BD-0202,2026-04-06,Plant A,Mill-02,Electrical,Bearing failure,13:15,14:42,1.45,38,1851.15,Closed,T. Ahmed
+BD-0239,2026-04-06,Plant A,Kiln-01,Electrical,Control card fault,05:00,09:46,4.78,48,6556.76,Closed,S. Roy
+BD-0196,2026-04-07,Plant A,Mill-01,Operational,Bearing failure,21:45,22:15,0.5,12,3659.09,Closed,T. Ahmed
+BD-0055,2026-04-10,Plant A,Kiln-01,Instrumentation,Control card fault,13:30,14:22,0.88,14,2301.64,Closed,T. Ahmed
+BD-0050,2026-04-12,Plant B,Mill-01,Electrical,Power trip,22:30,23:27,0.95,17,4715.9,Closed,M. Iqbal
+BD-0096,2026-04-12,Plant C,Compressor-02,Mechanical,Bearing failure,20:30,23:52,3.38,30,7095.29,Closed,T. Ahmed
+BD-0305,2026-04-13,Plant B,Mill-01,Utility,Belt slip,19:00,22:15,3.25,68,3002.06,Closed,R. Das
+BD-0139,2026-04-14,Plant C,Compressor-02,Instrumentation,Sensor fault,00:15,01:16,1.02,6,1502.58,Open,M. Iqbal
+BD-0146,2026-04-15,Plant A,Kiln-01,Instrumentation,Control card fault,16:00,04:00,12,121,6895.49,Closed,M. Iqbal
+BD-0129,2026-04-16,Plant B,Conveyor-03,Electrical,Sensor fault,01:00,01:30,0.5,4,4670.98,Closed,R. Das
+BD-0314,2026-04-16,Plant C,Conveyor-01,Mechanical,Control card fault,20:15,23:59,3.74,34,3478.48,Closed,K. Nair
+BD-0186,2026-04-17,Plant A,Packer-01,Instrumentation,Coupling wear,01:15,02:46,1.53,11,7612.1,Closed,R. Das
+BD-0206,2026-04-18,Plant C,Mill-01,Electrical,Coupling wear,12:45,15:22,2.62,46,3560.63,Closed,S. Roy
+BD-0237,2026-04-18,Plant A,Mill-02,Utility,Bearing failure,10:30,12:03,1.55,29,7251.98,Closed,R. Das
+BD-0316,2026-04-19,Plant B,Compressor-01,Instrumentation,Coupling wear,22:15,10:15,12,87,550.82,Closed,M. Iqbal
+BD-0185,2026-04-20,Plant B,Mill-01,Instrumentation,Power trip,15:15,18:27,3.21,78,5318.71,Closed,K. Nair
+BD-0234,2026-04-20,Plant B,Conveyor-03,Mechanical,Motor overload,16:00,17:26,1.44,12,2031.99,Closed,K. Nair
+BD-0060,2026-04-21,Plant B,Compressor-01,Electrical,Control card fault,07:15,09:09,1.91,17,5826.92,Closed,P. Sen
+BD-0241,2026-04-21,Plant B,Kiln-01,Utility,Bearing failure,06:30,07:00,0.5,7,938.27,Closed,S. Roy
+BD-0304,2026-04-23,Plant C,Mill-01,Instrumentation,Motor overload,17:00,02:11,9.19,207,3543.97,Closed,M. Iqbal
+BD-0216,2026-04-24,Plant A,Mill-02,Operational,Sensor fault,19:45,22:28,2.72,60,5470.1,Closed,S. Roy
+BD-0245,2026-04-24,Plant A,Packer-01,Utility,Coupling wear,18:45,20:55,2.17,13,752.9,Closed,R. Das
+BD-0219,2026-04-25,Plant C,Compressor-02,Instrumentation,Control card fault,09:45,11:17,1.54,9,4679.5,Closed,M. Iqbal
+BD-0081,2026-04-26,Plant B,Kiln-01,Utility,Motor overload,13:30,17:15,3.76,53,5237.72,Closed,R. Das
+BD-0222,2026-04-27,Plant C,Packer-01,Instrumentation,Bearing failure,19:30,22:13,2.73,25,1728.34,Closed,S. Roy
+BD-0286,2026-04-27,Plant B,Kiln-01,Electrical,Control card fault,07:30,11:54,4.4,72,3542.27,Closed,R. Das
+BD-0084,2026-04-28,Plant A,Conveyor-02,Electrical,Control card fault,22:15,22:45,0.5,3,7224.58,Closed,K. Nair
+BD-0112,2026-04-29,Plant C,Kiln-02,Mechanical,Cooling fan failure,11:45,12:52,1.13,18,7451.22,Closed,K. Nair
+BD-0297,2026-04-29,Plant C,Mill-01,Instrumentation,Sensor fault,03:15,03:54,0.65,15,7988.08,Closed,P. Sen
+BD-0210,2026-04-30,Plant B,Mill-01,Operational,Sensor fault,06:00,08:51,2.86,61,4337.0,Closed,P. Sen
+BD-0103,2026-05-01,Plant A,Kiln-01,Electrical,Control card fault,08:00,08:30,0.5,7,7930.33,Open,T. Ahmed
+BD-0163,2026-05-01,Plant A,Conveyor-02,Operational,Coupling wear,13:45,15:59,2.24,21,1684.3,Closed,P. Sen
+BD-0217,2026-05-02,Plant A,Mill-01,Operational,Power trip,05:00,07:34,2.57,50,7717.02,Closed,R. Das
+BD-0319,2026-05-03,Plant C,Mill-01,Mechanical,Motor overload,08:45,15:32,6.79,169,2137.52,Closed,M. Iqbal
+BD-0191,2026-05-04,Plant A,Conveyor-02,Utility,Coupling wear,15:45,01:49,10.07,79,187.15,Closed,K. Nair
+BD-0157,2026-05-06,Plant C,Kiln-02,Utility,Bearing failure,22:15,10:15,12,138,379.83,Closed,P. Sen
+BD-0016,2026-05-10,Plant C,Conveyor-01,Utility,Control card fault,21:00,22:38,1.64,14,5630.77,Closed,M. Iqbal
+BD-0300,2026-05-10,Plant C,Kiln-02,Instrumentation,Control card fault,20:00,20:30,0.5,6,2894.46,Closed,K. Nair
+BD-0121,2026-05-11,Plant A,Mill-02,Operational,Coupling wear,10:15,11:26,1.19,23,1863.84,Open,T. Ahmed
+BD-0231,2026-05-11,Plant B,Compressor-01,Operational,Coupling wear,15:15,18:34,3.33,32,6179.69,Closed,P. Sen
+BD-0003,2026-05-12,Plant C,Packer-01,Electrical,Power trip,08:30,11:47,3.29,22,6168.94,Closed,T. Ahmed
+BD-0072,2026-05-12,Plant A,Packer-02,Operational,Coupling wear,10:15,11:31,1.28,8,5604.78,Closed,K. Nair
+BD-0272,2026-05-13,Plant B,Packer-01,Mechanical,Hydraulic leak,07:00,11:30,4.5,30,6917.64,Closed,K. Nair
+BD-0301,2026-05-13,Plant C,Mill-01,Electrical,Belt slip,05:00,07:46,2.78,58,1787.3,Closed,M. Iqbal
+BD-0152,2026-05-15,Plant B,Packer-01,Mechanical,Hydraulic leak,18:30,20:06,1.61,15,7170.77,Closed,T. Ahmed
+BD-0259,2026-05-15,Plant C,Compressor-02,Operational,Cooling fan failure,10:45,12:22,1.62,13,7329.24,Closed,P. Sen
+BD-0174,2026-05-17,Plant C,Conveyor-01,Utility,Sensor fault,21:15,00:36,3.35,27,3216.04,Closed,K. Nair
+BD-0312,2026-05-17,Plant A,Conveyor-02,Instrumentation,Blocked chute,11:45,12:15,0.5,4,7332.79,Closed,M. Iqbal
+BD-0085,2026-05-18,Plant C,Conveyor-01,Instrumentation,Sensor fault,20:45,23:57,3.21,26,6965.03,Closed,K. Nair
+BD-0226,2026-05-18,Plant C,Compressor-02,Utility,Bearing failure,18:15,20:51,2.61,15,6406.04,Closed,R. Das
+BD-0285,2026-05-19,Plant B,Compressor-01,Utility,Belt slip,06:15,06:45,0.5,4,6514.58,Closed,S. Roy
+BD-0165,2026-05-21,Plant C,Packer-01,Instrumentation,Belt slip,16:45,20:34,3.83,36,3234.22,Closed,R. Das
+BD-0177,2026-05-21,Plant B,Kiln-01,Utility,Coupling wear,16:30,18:51,2.36,26,416.32,Closed,M. Iqbal
+BD-0268,2026-05-21,Plant A,Packer-02,Utility,Bearing failure,05:15,06:26,1.19,8,155.4,Closed,K. Nair
+BD-0043,2026-05-22,Plant B,Compressor-01,Instrumentation,Hydraulic leak,10:45,14:02,3.29,27,2325.26,Closed,R. Das
+BD-0023,2026-05-23,Plant C,Mill-01,Utility,Power trip,08:00,16:10,8.18,161,2221.64,Closed,R. Das
+BD-0284,2026-05-23,Plant A,Kiln-01,Operational,Power trip,09:30,10:00,0.5,8,7461.28,Closed,T. Ahmed
+BD-0229,2026-05-24,Plant C,Mill-01,Operational,Bearing failure,02:45,14:45,12,290,4855.84,Closed,T. Ahmed
+BD-0235,2026-05-24,Plant C,Kiln-02,Electrical,Blocked chute,12:15,13:07,0.88,10,2121.41,Closed,S. Roy
+BD-0140,2026-05-27,Plant B,Compressor-01,Utility,Sensor fault,00:15,02:45,2.5,24,2423.06,Closed,R. Das
+BD-0271,2026-05-28,Plant B,Kiln-01,Mechanical,Bearing failure,21:15,22:02,0.79,8,4895.57,Closed,K. Nair
+BD-0024,2026-05-29,Plant B,Compressor-01,Mechanical,Coupling wear,10:00,10:30,0.5,4,3346.65,Closed,T. Ahmed
+BD-0151,2026-05-29,Plant C,Conveyor-01,Electrical,Sensor fault,01:30,06:17,4.79,27,6286.51,Closed,M. Iqbal
+BD-0124,2026-05-31,Plant A,Mill-02,Operational,Belt slip,03:00,04:31,1.53,40,2973.53,Closed,P. Sen
+BD-0244,2026-06-01,Plant A,Kiln-01,Instrumentation,Bearing failure,19:00,19:36,0.6,8,7035.13,Closed,K. Nair
+BD-0283,2026-06-01,Plant C,Conveyor-01,Electrical,Bearing failure,22:00,22:51,0.85,8,5139.23,Closed,T. Ahmed
+BD-0281,2026-06-03,Plant C,Conveyor-01,Mechanical,Coupling wear,10:45,11:15,0.5,4,2610.24,Closed,M. Iqbal
+BD-0090,2026-06-04,Plant C,Compressor-02,Operational,Power trip,19:00,23:36,4.6,35,4202.26,Closed,S. Roy
+BD-0213,2026-06-04,Plant B,Compressor-01,Operational,Sensor fault,22:15,22:45,0.5,4,3789.0,Closed,T. Ahmed
+BD-0227,2026-06-04,Plant A,Mill-01,Mechanical,Coupling wear,17:45,19:11,1.44,38,1781.8,Closed,M. Iqbal
+BD-0274,2026-06-05,Plant A,Packer-02,Operational,Motor overload,01:15,01:45,0.5,3,1940.48,Closed,K. Nair
+BD-0028,2026-06-06,Plant A,Mill-02,Electrical,Control card fault,15:45,16:18,0.55,11,3008.44,Closed,R. Das
+BD-0086,2026-06-08,Plant C,Compressor-02,Operational,Hydraulic leak,08:15,09:28,1.22,9,5401.25,Closed,S. Roy
+BD-0228,2026-06-08,Plant C,Packer-01,Operational,Sensor fault,09:45,13:59,4.24,33,5366.12,Closed,K. Nair
+BD-0168,2026-06-09,Plant A,Packer-01,Mechanical,Power trip,22:15,01:43,3.47,32,4381.27,Closed,S. Roy
+BD-0128,2026-06-10,Plant B,Packer-01,Mechanical,Coupling wear,18:30,03:37,9.12,66,3388.76,Closed,K. Nair
+BD-0137,2026-06-10,Plant C,Kiln-02,Mechanical,Hydraulic leak,03:00,05:41,2.69,40,6683.01,Closed,S. Roy
+BD-0049,2026-06-11,Plant B,Mill-01,Operational,Cooling fan failure,21:00,23:55,2.93,45,1860.61,Closed,M. Iqbal
+BD-0162,2026-06-11,Plant C,Mill-01,Operational,Power trip,03:15,06:01,2.77,46,6286.53,Open,S. Roy
+BD-0172,2026-06-11,Plant B,Packer-01,Utility,Power trip,08:30,13:52,5.37,38,375.0,Closed,R. Das
+BD-0278,2026-06-11,Plant A,Packer-02,Instrumentation,Sensor fault,09:30,13:26,3.94,24,2716.44,Closed,T. Ahmed
+BD-0093,2026-06-12,Plant B,Kiln-01,Mechanical,Belt slip,04:45,08:33,3.81,40,5578.07,Closed,P. Sen
+BD-0251,2026-06-12,Plant C,Packer-01,Utility,Bearing failure,15:00,15:31,0.53,3,6676.98,Closed,R. Das
+BD-0138,2026-06-13,Plant B,Compressor-01,Electrical,Coupling wear,04:00,08:39,4.65,27,5100.8,Closed,S. Roy
+BD-0181,2026-06-13,Plant B,Compressor-01,Utility,Sensor fault,18:15,19:00,0.76,6,4473.8,Closed,T. Ahmed
+BD-0005,2026-06-14,Plant A,Mill-01,Instrumentation,Blocked chute,17:45,19:36,1.86,46,4811.58,Closed,P. Sen
+BD-0131,2026-06-14,Plant A,Mill-02,Mechanical,Blocked chute,17:00,17:30,0.5,11,6576.08,Closed,S. Roy
+BD-0291,2026-06-14,Plant B,Kiln-01,Instrumentation,Coupling wear,08:00,15:34,7.57,97,1772.91,Closed,S. Roy
+BD-0059,2026-06-15,Plant C,Mill-01,Electrical,Blocked chute,10:30,11:00,0.5,13,3515.33,Closed,T. Ahmed
+BD-0057,2026-06-16,Plant C,Packer-01,Electrical,Motor overload,00:45,04:32,3.79,23,6974.03,Closed,K. Nair
+BD-0132,2026-06-16,Plant B,Mill-01,Utility,Coupling wear,12:45,13:15,0.5,11,1450.75,Closed,R. Das
+BD-0017,2026-06-17,Plant C,Kiln-02,Instrumentation,Blocked chute,02:15,05:03,2.8,42,867.29,Closed,R. Das
+BD-0082,2026-06-17,Plant A,Mill-02,Mechanical,Bearing failure,02:00,02:30,0.5,12,5458.84,Closed,R. Das
+BD-0029,2026-06-18,Plant A,Packer-01,Electrical,Coupling wear,05:30,06:36,1.1,9,3645.77,Closed,K. Nair
+BD-0104,2026-06-18,Plant A,Mill-01,Mechanical,Control card fault,19:45,20:19,0.57,12,1789.04,Closed,M. Iqbal
+BD-0052,2026-06-19,Plant B,Conveyor-03,Operational,Bearing failure,03:30,06:17,2.79,17,1628.74,Open,M. Iqbal
+BD-0123,2026-06-19,Plant A,Packer-02,Operational,Sensor fault,10:30,11:28,0.98,7,7851.67,Closed,T. Ahmed
+BD-0178,2026-06-19,Plant C,Conveyor-01,Electrical,Control card fault,22:30,04:28,5.97,36,7644.04,Closed,K. Nair
+BD-0270,2026-06-19,Plant B,Kiln-01,Instrumentation,Blocked chute,06:00,06:36,0.6,6,7360.56,Closed,K. Nair
+BD-0302,2026-06-22,Plant C,Kiln-02,Utility,Cooling fan failure,18:45,19:18,0.56,7,4015.11,Closed,K. Nair
+BD-0113,2026-06-23,Plant A,Conveyor-02,Operational,Cooling fan failure,04:00,11:57,7.95,74,3142.62,Closed,S. Roy
+BD-0170,2026-06-23,Plant B,Conveyor-03,Instrumentation,Motor overload,22:30,23:51,1.36,10,5970.92,Closed,M. Iqbal
+BD-0309,2026-06-25,Plant A,Kiln-01,Utility,Coupling wear,15:15,17:24,2.16,35,4962.81,Closed,T. Ahmed
+BD-0009,2026-06-26,Plant B,Conveyor-03,Utility,Control card fault,21:45,23:33,1.81,12,1685.19,Closed,T. Ahmed
+BD-0054,2026-06-26,Plant C,Mill-01,Electrical,Bearing failure,22:45,10:45,12,190,471.49,Closed,S. Roy
+BD-0203,2026-06-26,Plant B,Packer-01,Mechanical,Control card fault,05:30,14:12,8.7,56,7297.59,Closed,T. Ahmed
+BD-0262,2026-06-26,Plant A,Kiln-01,Instrumentation,Coupling wear,06:00,06:30,0.5,8,1241.02,Open,T. Ahmed
+BD-0010,2026-06-27,Plant B,Conveyor-03,Mechanical,Belt slip,02:15,03:05,0.84,6,655.47,Closed,T. Ahmed
+BD-0036,2026-06-28,Plant A,Packer-01,Electrical,Power trip,21:15,21:49,0.57,5,5718.16,Closed,T. Ahmed
+BD-0225,2026-06-29,Plant A,Conveyor-02,Electrical,Motor overload,12:45,13:24,0.66,6,7584.53,Closed,K. Nair
+BD-0127,2026-06-30,Plant B,Conveyor-03,Mechanical,Power trip,17:45,00:54,7.15,53,7145.67,Closed,K. Nair
+BD-0167,2026-07-03,Plant B,Packer-01,Instrumentation,Hydraulic leak,16:30,17:00,0.5,3,6424.14,Closed,M. Iqbal
+BD-0303,2026-07-04,Plant B,Mill-01,Instrumentation,Belt slip,17:45,18:15,0.5,12,3961.38,Open,R. Das
+BD-0249,2026-07-05,Plant C,Conveyor-01,Instrumentation,Cooling fan failure,16:30,17:53,1.39,12,204.2,Closed,R. Das
+BD-0230,2026-07-07,Plant B,Compressor-01,Utility,Sensor fault,20:00,20:30,0.5,4,5768.81,Closed,K. Nair
+BD-0205,2026-07-08,Plant C,Conveyor-01,Utility,Control card fault,03:15,04:27,1.2,9,4809.4,Closed,P. Sen
+BD-0134,2026-07-09,Plant B,Conveyor-03,Electrical,Power trip,11:00,17:19,6.33,44,1201.93,Closed,R. Das
+BD-0077,2026-07-13,Plant C,Kiln-02,Instrumentation,Belt slip,09:45,19:42,9.96,138,1283.11,Closed,M. Iqbal
+BD-0089,2026-07-14,Plant C,Compressor-02,Mechanical,Cooling fan failure,17:00,20:53,3.89,36,2663.81,Closed,R. Das
+BD-0133,2026-07-15,Plant B,Conveyor-03,Operational,Hydraulic leak,11:45,14:49,3.08,22,2924.61,Closed,K. Nair
+BD-0189,2026-07-15,Plant B,Packer-01,Operational,Sensor fault,22:00,07:49,9.82,94,623.75,Closed,S. Roy
+BD-0221,2026-07-15,Plant C,Conveyor-01,Utility,Sensor fault,05:15,05:45,0.5,4,7274.22,Closed,M. Iqbal
+BD-0006,2026-07-18,Plant A,Mill-02,Operational,Bearing failure,22:15,02:34,4.33,92,1498.08,Closed,R. Das
+BD-0310,2026-07-18,Plant B,Kiln-01,Utility,Belt slip,14:15,01:07,10.88,151,503.68,Closed,M. Iqbal
+BD-0114,2026-07-19,Plant B,Packer-01,Electrical,Cooling fan failure,18:30,19:03,0.55,4,7922.67,Closed,R. Das
+BD-0269,2026-07-19,Plant B,Compressor-01,Mechanical,Blocked chute,02:45,03:19,0.57,4,6215.81,Closed,S. Roy
+BD-0008,2026-07-22,Plant C,Kiln-02,Instrumentation,Belt slip,00:15,00:45,0.5,6,4351.22,Closed,K. Nair
+BD-0111,2026-07-22,Plant A,Mill-02,Instrumentation,Control card fault,13:00,14:06,1.1,28,6914.86,Closed,T. Ahmed
+BD-0200,2026-07-22,Plant C,Conveyor-01,Electrical,Cooling fan failure,11:30,12:00,0.5,4,958.26,Open,S. Roy
+BD-0292,2026-07-22,Plant B,Mill-01,Utility,Hydraulic leak,17:45,18:48,1.06,22,200.06,Closed,T. Ahmed
+BD-0317,2026-07-22,Plant C,Conveyor-01,Instrumentation,Control card fault,15:45,21:55,6.18,54,3240.61,Closed,S. Roy
+BD-0125,2026-07-24,Plant B,Compressor-01,Instrumentation,Power trip,20:45,21:30,0.76,5,4928.47,Closed,S. Roy
+BD-0030,2026-07-25,Plant A,Conveyor-02,Operational,Control card fault,01:15,01:45,0.5,4,296.65,Closed,S. Roy
+BD-0063,2026-07-25,Plant A,Mill-01,Utility,Bearing failure,03:45,07:59,4.24,67,7353.84,Closed,S. Roy
+BD-0044,2026-07-26,Plant C,Compressor-02,Instrumentation,Hydraulic leak,18:15,22:08,3.89,24,5285.41,Closed,T. Ahmed
+BD-0087,2026-07-27,Plant A,Kiln-01,Utility,Hydraulic leak,09:00,10:13,1.23,18,458.89,Closed,P. Sen
+BD-0106,2026-07-28,Plant C,Mill-01,Utility,Motor overload,03:00,14:21,11.35,226,5686.22,Closed,M. Iqbal
+BD-0176,2026-07-28,Plant A,Kiln-01,Electrical,Power trip,21:30,22:00,0.5,5,6457.7,Closed,R. Das
+BD-0199,2026-07-29,Plant A,Conveyor-02,Instrumentation,Blocked chute,11:00,16:28,5.47,48,3250.5,Closed,T. Ahmed
+BD-0293,2026-07-30,Plant C,Kiln-02,Utility,Power trip,11:45,12:15,0.5,7,7704.49,Closed,K. Nair
+BD-0223,2026-08-01,Plant B,Compressor-01,Electrical,Belt slip,11:45,16:03,4.31,35,3838.95,Closed,M. Iqbal
+BD-0250,2026-08-01,Plant A,Conveyor-02,Utility,Control card fault,04:00,07:00,3.0,28,7973.63,Closed,R. Das
+BD-0277,2026-08-02,Plant A,Packer-02,Electrical,Sensor fault,06:30,08:29,1.99,19,6029.54,Open,P. Sen
+BD-0022,2026-08-05,Plant A,Packer-01,Instrumentation,Bearing failure,13:45,18:55,5.17,39,2102.52,Closed,S. Roy
+BD-0247,2026-08-05,Plant A,Packer-01,Electrical,Belt slip,02:15,11:39,9.41,61,6134.89,Closed,S. Roy
+BD-0156,2026-08-06,Plant A,Mill-02,Operational,Hydraulic leak,12:45,13:15,0.5,10,3310.36,Closed,T. Ahmed
+BD-0179,2026-08-08,Plant C,Kiln-02,Utility,Blocked chute,18:30,19:29,0.99,15,6781.22,Closed,S. Roy
+BD-0126,2026-08-09,Plant B,Packer-01,Operational,Belt slip,15:15,15:54,0.66,6,7724.02,Closed,K. Nair
+BD-0296,2026-08-09,Plant C,Mill-01,Utility,Power trip,18:15,21:21,3.1,49,5332.04,Closed,S. Roy
+BD-0021,2026-08-11,Plant A,Packer-01,Operational,Belt slip,18:15,23:39,5.41,42,6988.92,Closed,M. Iqbal
+BD-0233,2026-08-15,Plant C,Compressor-02,Instrumentation,Blocked chute,02:15,12:59,10.74,72,490.66,Closed,K. Nair
+BD-0068,2026-08-16,Plant C,Compressor-02,Instrumentation,Control card fault,08:15,09:58,1.73,10,4543.33,Closed,K. Nair
+BD-0092,2026-08-16,Plant C,Mill-01,Operational,Cooling fan failure,08:30,09:39,1.15,25,3578.33,Closed,S. Roy
+BD-0099,2026-08-17,Plant B,Packer-01,Electrical,Coupling wear,09:45,10:15,0.5,3,7673.52,Closed,K. Nair
+BD-0264,2026-08-17,Plant A,Packer-02,Electrical,Cooling fan failure,12:00,12:30,0.5,4,3282.29,Closed,M. Iqbal
+BD-0261,2026-08-21,Plant C,Mill-01,Electrical,Cooling fan failure,20:45,03:33,6.81,118,2408.09,Closed,T. Ahmed
+BD-0195,2026-08-24,Plant C,Mill-01,Operational,Motor overload,02:45,03:48,1.05,25,7804.47,Closed,R. Das
+BD-0002,2026-08-25,Plant B,Kiln-01,Instrumentation,Motor overload,18:30,21:09,2.65,38,7499.82,Closed,K. Nair
+BD-0276,2026-08-26,Plant C,Mill-01,Instrumentation,Cooling fan failure,16:45,21:30,4.76,109,3866.75,Open,S. Roy
+BD-0107,2026-08-27,Plant A,Mill-02,Mechanical,Blocked chute,00:45,01:55,1.17,21,7747.23,Closed,R. Das
+BD-0263,2026-08-29,Plant A,Packer-01,Mechanical,Motor overload,09:45,16:03,6.31,43,7733.78,Open,T. Ahmed
+BD-0100,2026-08-31,Plant B,Packer-01,Electrical,Coupling wear,05:00,05:52,0.87,5,2787.2,Closed,S. Roy
+BD-0201,2026-09-02,Plant C,Conveyor-01,Mechanical,Sensor fault,18:30,19:00,0.5,5,2562.55,Closed,M. Iqbal
+BD-0238,2026-09-02,Plant B,Mill-01,Operational,Belt slip,12:30,14:09,1.66,34,5308.03,Closed,T. Ahmed
+BD-0120,2026-09-03,Plant C,Mill-01,Electrical,Coupling wear,07:30,13:49,6.32,109,4072.69,Closed,R. Das
+BD-0053,2026-09-04,Plant B,Packer-01,Instrumentation,Bearing failure,15:00,15:59,0.99,9,4743.51,Closed,S. Roy
+BD-0117,2026-09-04,Plant C,Compressor-02,Instrumentation,Motor overload,17:45,18:15,0.5,5,3848.91,Closed,P. Sen
+BD-0150,2026-09-05,Plant A,Kiln-01,Operational,Control card fault,02:00,07:34,5.58,63,874.1,Closed,K. Nair
+BD-0266,2026-09-05,Plant C,Packer-01,Electrical,Coupling wear,20:00,20:30,0.5,4,6006.19,Closed,S. Roy
+BD-0080,2026-09-06,Plant C,Kiln-02,Mechanical,Bearing failure,03:30,04:01,0.53,7,3849.67,Closed,S. Roy
+BD-0260,2026-09-07,Plant A,Mill-02,Instrumentation,Motor overload,08:15,10:55,2.68,49,5371.47,Closed,S. Roy
+BD-0313,2026-09-08,Plant A,Conveyor-02,Instrumentation,Control card fault,14:00,14:30,0.5,4,902.62,Open,P. Sen
+BD-0071,2026-09-09,Plant B,Packer-01,Mechanical,Power trip,13:00,18:19,5.32,39,7106.01,Open,T. Ahmed
+BD-0076,2026-09-10,Plant B,Mill-01,Utility,Cooling fan failure,02:45,03:15,0.5,10,4195.19,Closed,R. Das
+BD-0320,2026-09-11,Plant C,Compressor-02,Operational,Control card fault,05:00,07:20,2.34,16,3277.16,Closed,P. Sen
+BD-0047,2026-09-12,Plant B,Kiln-01,Mechanical,Power trip,10:45,13:52,3.13,48,3894.07,Closed,M. Iqbal
+BD-0307,2026-09-13,Plant B,Packer-01,Operational,Control card fault,19:15,23:18,4.06,27,250.22,Closed,P. Sen
+BD-0180,2026-09-14,Plant A,Conveyor-02,Mechanical,Coupling wear,00:00,00:30,0.5,5,1756.85,Closed,K. Nair
+BD-0144,2026-09-15,Plant B,Packer-01,Operational,Control card fault,22:30,00:19,1.83,12,3544.38,Closed,T. Ahmed
+BD-0275,2026-09-15,Plant A,Kiln-01,Operational,Power trip,03:00,12:12,9.2,142,1332.24,Closed,T. Ahmed
+BD-0130,2026-09-16,Plant B,Kiln-01,Operational,Sensor fault,15:00,20:46,5.77,72,2094.85,Closed,K. Nair
+BD-0171,2026-09-17,Plant C,Kiln-02,Instrumentation,Bearing failure,08:15,10:13,1.98,21,1707.48,Closed,P. Sen
+BD-0041,2026-09-20,Plant C,Kiln-02,Electrical,Control card fault,20:00,22:15,2.26,34,3819.18,Closed,R. Das
+BD-0075,2026-09-20,Plant A,Packer-02,Utility,Hydraulic leak,04:45,08:04,3.32,20,1088.28,Closed,S. Roy
+BD-0273,2026-09-20,Plant C,Conveyor-01,Electrical,Coupling wear,07:30,10:53,3.39,30,7026.21,Closed,K. Nair
+BD-0091,2026-09-21,Plant A,Mill-02,Operational,Power trip,01:15,10:10,8.92,216,1491.69,Closed,P. Sen
+BD-0182,2026-09-21,Plant B,Packer-01,Mechanical,Bearing failure,19:45,23:22,3.62,30,860.4,Closed,K. Nair
+BD-0198,2026-09-21,Plant A,Mill-02,Utility,Coupling wear,07:30,09:30,2.01,44,5821.91,Closed,T. Ahmed
+BD-0290,2026-09-21,Plant B,Kiln-01,Mechanical,Sensor fault,04:45,11:25,6.67,93,1832.93,Closed,M. Iqbal
+BD-0025,2026-09-22,Plant A,Conveyor-02,Mechanical,Blocked chute,00:15,01:15,1.0,6,6572.21,Closed,T. Ahmed
+BD-0046,2026-09-22,Plant B,Mill-01,Operational,Power trip,10:00,11:46,1.77,39,3006.41,Closed,T. Ahmed
+BD-0187,2026-09-23,Plant B,Conveyor-03,Mechanical,Cooling fan failure,17:15,23:23,6.14,52,6942.64,Open,R. Das
+BD-0318,2026-09-23,Plant B,Conveyor-03,Operational,Hydraulic leak,14:45,16:08,1.39,9,7783.71,Closed,S. Roy
+BD-0040,2026-09-24,Plant B,Mill-01,Instrumentation,Motor overload,21:45,01:41,3.94,99,4179.91,Closed,K. Nair
+BD-0158,2026-09-25,Plant B,Conveyor-03,Mechanical,Hydraulic leak,00:00,02:28,2.48,22,5299.32,Closed,M. Iqbal
+BD-0215,2026-09-25,Plant C,Packer-01,Electrical,Cooling fan failure,16:30,19:14,2.74,18,7937.55,Closed,K. Nair
+BD-0265,2026-09-25,Plant B,Compressor-01,Operational,Control card fault,04:30,09:12,4.71,34,7352.29,Open,P. Sen
+BD-0197,2026-09-28,Plant A,Mill-02,Utility,Control card fault,20:45,03:55,7.18,166,1914.65,Closed,P. Sen
+BD-0031,2026-10-01,Plant C,Mill-01,Mechanical,Cooling fan failure,16:00,19:30,3.5,77,3539.37,Closed,S. Roy
+BD-0102,2026-10-05,Plant C,Compressor-02,Instrumentation,Blocked chute,16:45,00:49,8.07,56,4174.86,Closed,S. Roy
+BD-0160,2026-10-05,Plant B,Compressor-01,Electrical,Coupling wear,22:15,01:02,2.79,23,2780.17,Closed,K. Nair
+BD-0145,2026-10-07,Plant C,Packer-01,Electrical,Belt slip,13:00,13:35,0.59,4,6178.83,Closed,M. Iqbal
+BD-0098,2026-10-08,Plant C,Conveyor-01,Instrumentation,Coupling wear,03:15,13:07,9.87,89,7778.18,Closed,P. Sen
+BD-0193,2026-10-09,Plant A,Mill-01,Operational,Bearing failure,05:15,06:44,1.49,32,4973.86,Closed,T. Ahmed
+BD-0027,2026-10-10,Plant A,Packer-02,Utility,Coupling wear,01:30,03:30,2.0,16,5142.29,Closed,S. Roy
+BD-0240,2026-10-10,Plant C,Mill-01,Mechanical,Bearing failure,13:00,15:54,2.91,74,6334.46,Closed,S. Roy
+BD-0288,2026-10-10,Plant C,Mill-01,Operational,Cooling fan failure,22:45,01:34,2.82,66,874.71,Open,K. Nair
+BD-0279,2026-10-11,Plant A,Conveyor-02,Instrumentation,Blocked chute,00:30,01:00,0.5,3,1958.65,Closed,M. Iqbal
+BD-0083,2026-10-12,Plant C,Conveyor-01,Mechanical,Motor overload,11:00,14:42,3.7,21,2881.92,Closed,T. Ahmed
+BD-0147,2026-10-12,Plant A,Mill-02,Instrumentation,Blocked chute,17:00,19:28,2.47,56,1388.6,Closed,K. Nair
+BD-0282,2026-10-12,Plant C,Kiln-02,Electrical,Power trip,11:15,11:45,0.5,8,1157.9,Closed,R. Das
+BD-0295,2026-10-12,Plant C,Conveyor-01,Electrical,Control card fault,08:45,09:15,0.5,3,1767.03,Closed,S. Roy
+BD-0256,2026-10-13,Plant A,Packer-01,Utility,Bearing failure,00:30,01:20,0.84,7,7030.08,Closed,P. Sen
+BD-0184,2026-10-14,Plant B,Compressor-01,Electrical,Sensor fault,09:00,12:25,3.43,31,2610.03,Closed,M. Iqbal
+BD-0220,2026-10-14,Plant A,Packer-02,Mechanical,Sensor fault,18:30,22:10,3.68,22,4292.74,Closed,M. Iqbal
+BD-0298,2026-10-15,Plant B,Packer-01,Utility,Blocked chute,02:00,11:42,9.71,80,919.91,Open,M. Iqbal
+BD-0033,2026-10-16,Plant C,Mill-01,Operational,Belt slip,13:45,14:51,1.11,23,989.75,Closed,T. Ahmed
+BD-0062,2026-10-16,Plant C,Packer-01,Mechanical,Control card fault,00:15,08:38,8.39,53,3636.36,Open,P. Sen
+BD-0045,2026-10-18,Plant C,Mill-01,Instrumentation,Sensor fault,03:45,04:15,0.5,12,2825.93,Closed,K. Nair

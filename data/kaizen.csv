@@ -1,0 +1,226 @@
+kaizen_id,date,plant,department,title,category,status,owner,savings_usd,completion_date
+KZ-0009,2026-01-01,Plant B,Quality,Eliminate water leak in utility line,Delivery,In Progress,R. Das,11647.85,
+KZ-0001,2026-01-04,Plant A,Packing,Standardize shift handover checklist,Delivery,In Progress,T. Ahmed,21708.9,
+KZ-0005,2026-01-06,Plant A,Packing,Optimize lighting schedule in warehouse,Energy,Completed,P. Sen,11554.12,2026-02-05
+KZ-0023,2026-01-06,Plant C,Production,Standardize shift handover checklist,Morale,Completed,P. Sen,22949.02,2026-02-05
+KZ-0015,2026-01-07,Plant B,Utilities,Improve pallet stacking method,Energy,Completed,T. Ahmed,13446.41,2026-01-31
+KZ-0025,2026-01-07,Plant C,Quality,Improve pallet stacking method,Delivery,Completed,R. Das,19793.7,2026-01-19
+KZ-0007,2026-01-09,Plant A,Production,Reduce changeover time on line 2,Cost,In Progress,P. Sen,21894.52,
+KZ-0024,2026-01-10,Plant C,Maintenance,Install visual level indicator on silo,Quality,Completed,R. Das,19800.94,2026-01-22
+KZ-0016,2026-01-12,Plant B,Production,Standardize shift handover checklist,Delivery,In Progress,P. Sen,14958.25,
+KZ-0019,2026-01-12,Plant C,Safety,Shorten kiln warm-up time,Morale,Completed,K. Nair,22380.46,2026-02-10
+KZ-0002,2026-01-14,Plant A,Production,Standardize shift handover checklist,Cost,In Progress,M. Iqbal,8099.02,
+KZ-0011,2026-01-14,Plant B,Production,Optimize mill feed rate,Safety,In Progress,T. Ahmed,23857.4,
+KZ-0013,2026-01-14,Plant B,Utilities,Reduce changeover time on line 2,Delivery,Completed,M. Iqbal,4577.28,2026-01-23
+KZ-0020,2026-01-14,Plant C,Packing,Reduce material spillage at conveyor transfer,Morale,Completed,M. Iqbal,22043.87,2026-01-26
+KZ-0008,2026-01-15,Plant A,Maintenance,Optimize mill feed rate,Morale,In Progress,R. Das,24775.27,
+KZ-0022,2026-01-15,Plant C,Quality,Optimize mill feed rate,Quality,In Progress,K. Nair,15128.31,
+KZ-0012,2026-01-19,Plant B,Packing,Reduce compressed-air leakage,Cost,Completed,P. Sen,18707.9,2026-02-02
+KZ-0017,2026-01-20,Plant B,Safety,Standardize shift handover checklist,Safety,Completed,M. Iqbal,13225.37,2026-02-14
+KZ-0003,2026-01-21,Plant A,Utilities,Optimize lighting schedule in warehouse,Delivery,In Progress,P. Sen,16058.05,
+KZ-0014,2026-01-22,Plant B,Utilities,Reduce compressed-air leakage,Cost,Completed,P. Sen,1105.86,2026-02-05
+KZ-0006,2026-01-25,Plant A,Quality,Reduce compressed-air leakage,Safety,Planned,R. Das,7903.77,
+KZ-0010,2026-01-25,Plant B,Quality,Reduce changeover time on line 2,Energy,In Progress,S. Roy,20167.28,
+KZ-0018,2026-01-26,Plant C,Utilities,Reduce material spillage at conveyor transfer,Delivery,Completed,T. Ahmed,11256.31,2026-02-01
+KZ-0021,2026-01-26,Plant C,Packing,Optimize mill feed rate,Energy,In Progress,R. Das,1851.77,
+KZ-0004,2026-01-27,Plant A,Safety,Reduce material spillage at conveyor transfer,Quality,Completed,R. Das,6077.34,2026-02-03
+KZ-0026,2026-01-27,Plant C,Production,Standardize shift handover checklist,Morale,In Progress,S. Roy,17839.09,
+KZ-0043,2026-02-01,Plant C,Production,Eliminate water leak in utility line,Morale,Completed,T. Ahmed,8149.38,2026-02-28
+KZ-0046,2026-02-03,Plant C,Packing,Reduce changeover time on line 2,Quality,Completed,P. Sen,21689.76,2026-02-24
+KZ-0047,2026-02-03,Plant C,Packing,Standardize shift handover checklist,Quality,Completed,T. Ahmed,8328.68,2026-02-16
+KZ-0041,2026-02-04,Plant B,Utilities,Standardize shift handover checklist,Cost,Completed,S. Roy,3313.95,2026-03-02
+KZ-0036,2026-02-05,Plant B,Production,Reduce material spillage at conveyor transfer,Safety,Completed,R. Das,15725.09,2026-02-17
+KZ-0039,2026-02-06,Plant B,Utilities,Reduce material spillage at conveyor transfer,Quality,Planned,P. Sen,2369.07,
+KZ-0029,2026-02-08,Plant A,Production,Standardize shift handover checklist,Cost,Completed,S. Roy,13511.03,2026-02-14
+KZ-0042,2026-02-08,Plant C,Utilities,Improve sample labelling in quality lab,Morale,Completed,R. Das,12039.68,2026-02-18
+KZ-0032,2026-02-10,Plant A,Utilities,Reduce bag burst in packing area,Cost,Planned,M. Iqbal,24373.45,
+KZ-0027,2026-02-13,Plant A,Maintenance,Shorten kiln warm-up time,Cost,Completed,T. Ahmed,13673.3,2026-03-10
+KZ-0028,2026-02-13,Plant A,Utilities,Improve pallet stacking method,Safety,Completed,M. Iqbal,12893.28,2026-02-22
+KZ-0035,2026-02-18,Plant B,Maintenance,Reduce bag burst in packing area,Quality,Completed,P. Sen,14957.25,2026-03-16
+KZ-0031,2026-02-19,Plant A,Utilities,Reduce bag burst in packing area,Cost,In Progress,M. Iqbal,9371.69,
+KZ-0044,2026-02-22,Plant C,Maintenance,Install visual level indicator on silo,Quality,Completed,P. Sen,17731.05,2026-02-27
+KZ-0037,2026-02-23,Plant B,Utilities,Standardize shift handover checklist,Delivery,Planned,M. Iqbal,23809.8,
+KZ-0033,2026-02-25,Plant B,Maintenance,Reduce compressed-air leakage,Cost,Planned,R. Das,12251.95,
+KZ-0038,2026-02-25,Plant B,Utilities,Reduce material spillage at conveyor transfer,Morale,Completed,K. Nair,19530.04,2026-03-06
+KZ-0045,2026-02-25,Plant C,Packing,Reduce compressed-air leakage,Cost,Completed,S. Roy,23704.33,2026-03-25
+KZ-0040,2026-02-26,Plant B,Utilities,Reduce compressed-air leakage,Delivery,Completed,M. Iqbal,14618.79,2026-03-12
+KZ-0030,2026-02-27,Plant A,Utilities,Reduce material spillage at conveyor transfer,Cost,Completed,M. Iqbal,3112.53,2026-03-13
+KZ-0034,2026-02-28,Plant B,Packing,Improve sample labelling in quality lab,Morale,Planned,P. Sen,24034.34,
+KZ-0059,2026-03-01,Plant B,Utilities,Install visual level indicator on silo,Quality,In Progress,T. Ahmed,14844.52,
+KZ-0062,2026-03-01,Plant C,Packing,Reduce compressed-air leakage,Delivery,Planned,S. Roy,17551.78,
+KZ-0063,2026-03-04,Plant C,Quality,Eliminate water leak in utility line,Cost,Planned,K. Nair,20362.22,
+KZ-0049,2026-03-09,Plant A,Maintenance,Optimize lighting schedule in warehouse,Delivery,Completed,R. Das,12291.4,2026-03-15
+KZ-0053,2026-03-11,Plant A,Maintenance,Shorten kiln warm-up time,Quality,Completed,T. Ahmed,12392.95,2026-04-04
+KZ-0051,2026-03-12,Plant A,Maintenance,Shorten kiln warm-up time,Energy,Completed,K. Nair,5796.1,2026-04-01
+KZ-0057,2026-03-12,Plant B,Production,Optimize mill feed rate,Morale,Completed,M. Iqbal,13967.86,2026-03-21
+KZ-0055,2026-03-15,Plant B,Production,Optimize lighting schedule in warehouse,Safety,Completed,K. Nair,11090.99,2026-03-31
+KZ-0060,2026-03-17,Plant B,Quality,Improve sample labelling in quality lab,Energy,Completed,S. Roy,22904.9,2026-03-25
+KZ-0065,2026-03-17,Plant C,Maintenance,Optimize lighting schedule in warehouse,Safety,Planned,M. Iqbal,7859.29,
+KZ-0052,2026-03-18,Plant A,Production,Standardize shift handover checklist,Safety,In Progress,R. Das,21678.5,
+KZ-0066,2026-03-19,Plant C,Packing,Optimize lighting schedule in warehouse,Delivery,Planned,M. Iqbal,19113.26,
+KZ-0056,2026-03-20,Plant B,Packing,Install visual level indicator on silo,Quality,Planned,R. Das,15626.92,
+KZ-0067,2026-03-21,Plant C,Packing,Reduce material spillage at conveyor transfer,Quality,Completed,S. Roy,7778.14,2026-04-20
+KZ-0068,2026-03-21,Plant C,Quality,Improve pallet stacking method,Morale,Completed,T. Ahmed,13212.85,2026-04-15
+KZ-0054,2026-03-24,Plant B,Quality,Improve sample labelling in quality lab,Energy,In Progress,R. Das,15713.54,
+KZ-0058,2026-03-24,Plant B,Maintenance,Optimize lighting schedule in warehouse,Quality,Completed,K. Nair,11524.1,2026-04-05
+KZ-0048,2026-03-25,Plant A,Packing,Install visual level indicator on silo,Energy,Completed,K. Nair,11459.25,2026-04-04
+KZ-0050,2026-03-25,Plant A,Utilities,Shorten kiln warm-up time,Quality,Completed,R. Das,14535.19,2026-04-22
+KZ-0061,2026-03-26,Plant B,Maintenance,Reduce changeover time on line 2,Energy,Completed,T. Ahmed,2540.41,2026-04-13
+KZ-0064,2026-03-27,Plant C,Maintenance,Standardize shift handover checklist,Quality,Completed,S. Roy,15231.61,2026-04-14
+KZ-0086,2026-04-01,Plant C,Safety,Reduce bag burst in packing area,Delivery,Completed,S. Roy,21139.46,2026-04-28
+KZ-0079,2026-04-03,Plant B,Packing,Reduce changeover time on line 2,Safety,Completed,R. Das,16036.29,2026-04-18
+KZ-0084,2026-04-06,Plant C,Maintenance,Optimize lighting schedule in warehouse,Cost,Completed,T. Ahmed,18350.55,2026-05-05
+KZ-0076,2026-04-08,Plant B,Maintenance,Reduce bag burst in packing area,Morale,Completed,R. Das,18086.89,2026-05-02
+KZ-0085,2026-04-08,Plant C,Production,Optimize lighting schedule in warehouse,Quality,Completed,M. Iqbal,15325.29,2026-04-13
+KZ-0088,2026-04-08,Plant C,Safety,Reduce compressed-air leakage,Cost,In Progress,S. Roy,16637.14,
+KZ-0077,2026-04-09,Plant B,Safety,Reduce bag burst in packing area,Safety,Planned,P. Sen,8636.15,
+KZ-0070,2026-04-13,Plant A,Quality,Shorten kiln warm-up time,Morale,In Progress,P. Sen,16365.94,
+KZ-0087,2026-04-14,Plant C,Quality,Improve pallet stacking method,Quality,Completed,T. Ahmed,12829.33,2026-05-09
+KZ-0078,2026-04-15,Plant B,Production,Reduce material spillage at conveyor transfer,Quality,Completed,M. Iqbal,10202.05,2026-05-12
+KZ-0074,2026-04-16,Plant A,Maintenance,Improve pallet stacking method,Quality,Completed,T. Ahmed,9857.6,2026-05-04
+KZ-0080,2026-04-17,Plant B,Maintenance,Shorten kiln warm-up time,Cost,Completed,K. Nair,13423.46,2026-05-11
+KZ-0069,2026-04-20,Plant A,Packing,Reduce compressed-air leakage,Delivery,Planned,R. Das,8770.18,
+KZ-0072,2026-04-21,Plant A,Packing,Reduce changeover time on line 2,Delivery,Completed,R. Das,15848.86,2026-05-05
+KZ-0083,2026-04-23,Plant C,Production,Reduce compressed-air leakage,Quality,Completed,K. Nair,987.04,2026-05-13
+KZ-0073,2026-04-24,Plant A,Production,Reduce changeover time on line 2,Safety,Completed,T. Ahmed,17625.54,2026-05-08
+KZ-0081,2026-04-24,Plant B,Quality,Eliminate water leak in utility line,Quality,Completed,K. Nair,13698.25,2026-05-24
+KZ-0075,2026-04-25,Plant A,Maintenance,Eliminate water leak in utility line,Cost,Planned,S. Roy,15050.53,
+KZ-0071,2026-04-27,Plant A,Production,Shorten kiln warm-up time,Cost,Completed,K. Nair,16358.21,2026-05-20
+KZ-0082,2026-04-27,Plant C,Safety,Reduce compressed-air leakage,Morale,In Progress,T. Ahmed,17267.6,
+KZ-0102,2026-05-02,Plant C,Safety,Install visual level indicator on silo,Energy,Completed,S. Roy,23684.43,2026-05-11
+KZ-0105,2026-05-03,Plant C,Safety,Reduce compressed-air leakage,Safety,Completed,S. Roy,18029.67,2026-05-15
+KZ-0108,2026-05-04,Plant C,Packing,Standardize shift handover checklist,Quality,In Progress,M. Iqbal,23990.41,
+KZ-0093,2026-05-07,Plant A,Safety,Reduce changeover time on line 2,Quality,In Progress,P. Sen,8995.61,
+KZ-0092,2026-05-08,Plant A,Packing,Reduce changeover time on line 2,Safety,In Progress,S. Roy,8326.89,
+KZ-0095,2026-05-08,Plant B,Maintenance,Improve pallet stacking method,Cost,Completed,M. Iqbal,15912.25,2026-05-28
+KZ-0106,2026-05-08,Plant C,Quality,Reduce changeover time on line 2,Cost,In Progress,R. Das,15603.52,
+KZ-0099,2026-05-11,Plant B,Packing,Reduce bag burst in packing area,Quality,Planned,M. Iqbal,20626.73,
+KZ-0100,2026-05-11,Plant B,Packing,Optimize lighting schedule in warehouse,Safety,Completed,S. Roy,23706.64,2026-05-16
+KZ-0091,2026-05-12,Plant A,Quality,Reduce changeover time on line 2,Quality,In Progress,K. Nair,5313.1,
+KZ-0098,2026-05-12,Plant B,Maintenance,Reduce bag burst in packing area,Quality,Completed,M. Iqbal,8997.6,2026-05-31
+KZ-0103,2026-05-13,Plant C,Utilities,Reduce changeover time on line 2,Quality,Completed,S. Roy,20418.8,2026-05-20
+KZ-0090,2026-05-16,Plant A,Safety,Optimize lighting schedule in warehouse,Safety,Completed,P. Sen,11105.26,2026-06-13
+KZ-0094,2026-05-17,Plant A,Maintenance,Reduce compressed-air leakage,Delivery,Completed,M. Iqbal,6578.94,2026-06-13
+KZ-0101,2026-05-18,Plant C,Production,Reduce changeover time on line 2,Cost,In Progress,P. Sen,24942.84,
+KZ-0089,2026-05-23,Plant A,Maintenance,Install visual level indicator on silo,Quality,Planned,R. Das,10313.53,
+KZ-0096,2026-05-27,Plant B,Production,Eliminate water leak in utility line,Quality,In Progress,T. Ahmed,8100.54,
+KZ-0097,2026-05-28,Plant B,Packing,Improve pallet stacking method,Safety,Completed,P. Sen,14466.39,2026-06-11
+KZ-0104,2026-05-28,Plant C,Maintenance,Improve sample labelling in quality lab,Safety,Completed,T. Ahmed,19382.02,2026-06-12
+KZ-0107,2026-05-28,Plant C,Safety,Reduce material spillage at conveyor transfer,Cost,Completed,S. Roy,12656.35,2026-06-12
+KZ-0121,2026-06-06,Plant B,Utilities,Reduce bag burst in packing area,Safety,Completed,T. Ahmed,23756.54,2026-06-16
+KZ-0122,2026-06-06,Plant C,Safety,Install visual level indicator on silo,Morale,In Progress,R. Das,16994.12,
+KZ-0118,2026-06-08,Plant B,Packing,Improve sample labelling in quality lab,Delivery,Completed,P. Sen,13623.59,2026-06-16
+KZ-0109,2026-06-09,Plant A,Packing,Optimize mill feed rate,Energy,Completed,T. Ahmed,3786.13,2026-06-14
+KZ-0128,2026-06-09,Plant C,Packing,Improve sample labelling in quality lab,Morale,Completed,P. Sen,10737.48,2026-06-27
+KZ-0112,2026-06-10,Plant A,Utilities,Improve sample labelling in quality lab,Energy,Completed,T. Ahmed,12773.88,2026-06-25
+KZ-0114,2026-06-10,Plant A,Safety,Standardize shift handover checklist,Safety,Completed,K. Nair,1529.8,2026-06-21
+KZ-0124,2026-06-10,Plant C,Maintenance,Optimize lighting schedule in warehouse,Energy,Completed,P. Sen,19636.18,2026-07-01
+KZ-0127,2026-06-10,Plant C,Packing,Reduce material spillage at conveyor transfer,Safety,Completed,S. Roy,9994.44,2026-06-21
+KZ-0111,2026-06-11,Plant A,Production,Reduce material spillage at conveyor transfer,Delivery,Completed,R. Das,8160.19,2026-07-10
+KZ-0113,2026-06-12,Plant A,Packing,Reduce changeover time on line 2,Delivery,In Progress,T. Ahmed,21992.98,
+KZ-0119,2026-06-12,Plant B,Quality,Standardize shift handover checklist,Morale,Completed,R. Das,24828.77,2026-07-08
+KZ-0129,2026-06-12,Plant C,Quality,Reduce material spillage at conveyor transfer,Safety,Completed,R. Das,10912.17,2026-07-04
+KZ-0130,2026-06-12,Plant C,Safety,Reduce changeover time on line 2,Cost,Completed,T. Ahmed,5577.09,2026-06-28
+KZ-0117,2026-06-18,Plant B,Quality,Standardize shift handover checklist,Energy,Completed,R. Das,9953.91,2026-06-24
+KZ-0125,2026-06-18,Plant C,Packing,Reduce changeover time on line 2,Delivery,Completed,K. Nair,19125.76,2026-07-17
+KZ-0126,2026-06-19,Plant C,Utilities,Reduce compressed-air leakage,Safety,In Progress,P. Sen,6754.93,
+KZ-0120,2026-06-21,Plant B,Packing,Reduce compressed-air leakage,Delivery,Completed,K. Nair,13639.42,2026-07-14
+KZ-0116,2026-06-24,Plant B,Packing,Improve sample labelling in quality lab,Morale,Completed,K. Nair,14153.07,2026-07-03
+KZ-0115,2026-06-25,Plant A,Production,Optimize mill feed rate,Cost,Completed,T. Ahmed,18451.99,2026-07-03
+KZ-0110,2026-06-28,Plant A,Utilities,Install visual level indicator on silo,Cost,Completed,P. Sen,11098.09,2026-07-24
+KZ-0123,2026-06-28,Plant C,Safety,Shorten kiln warm-up time,Delivery,Completed,M. Iqbal,9116.77,2026-07-07
+KZ-0141,2026-07-01,Plant B,Quality,Shorten kiln warm-up time,Morale,Completed,M. Iqbal,19424.95,2026-07-31
+KZ-0142,2026-07-02,Plant B,Production,Improve pallet stacking method,Quality,Completed,S. Roy,4356.02,2026-07-25
+KZ-0136,2026-07-04,Plant A,Packing,Install visual level indicator on silo,Quality,Completed,R. Das,21376.79,2026-07-26
+KZ-0137,2026-07-05,Plant A,Maintenance,Reduce compressed-air leakage,Cost,Completed,S. Roy,8370.62,2026-07-11
+KZ-0148,2026-07-05,Plant C,Production,Reduce compressed-air leakage,Delivery,Completed,P. Sen,11968.4,2026-07-19
+KZ-0132,2026-07-07,Plant A,Production,Optimize lighting schedule in warehouse,Safety,Completed,M. Iqbal,9062.5,2026-07-16
+KZ-0131,2026-07-08,Plant A,Production,Improve sample labelling in quality lab,Safety,Planned,P. Sen,16567.62,
+KZ-0140,2026-07-08,Plant B,Maintenance,Improve pallet stacking method,Delivery,Completed,R. Das,10097.33,2026-07-28
+KZ-0143,2026-07-10,Plant B,Production,Reduce material spillage at conveyor transfer,Energy,Completed,P. Sen,7310.5,2026-07-22
+KZ-0147,2026-07-11,Plant C,Production,Reduce bag burst in packing area,Quality,In Progress,M. Iqbal,6620.39,
+KZ-0144,2026-07-15,Plant B,Utilities,Install visual level indicator on silo,Delivery,Planned,S. Roy,24764.06,
+KZ-0135,2026-07-16,Plant A,Packing,Optimize mill feed rate,Morale,In Progress,M. Iqbal,21071.41,
+KZ-0146,2026-07-17,Plant C,Maintenance,Eliminate water leak in utility line,Cost,Completed,M. Iqbal,11582.37,2026-08-03
+KZ-0150,2026-07-17,Plant C,Quality,Optimize mill feed rate,Morale,Completed,P. Sen,4567.04,2026-07-23
+KZ-0153,2026-07-18,Plant C,Packing,Install visual level indicator on silo,Morale,Completed,R. Das,14800.73,2026-07-31
+KZ-0138,2026-07-22,Plant A,Quality,Reduce changeover time on line 2,Safety,Completed,K. Nair,24841.43,2026-08-06
+KZ-0139,2026-07-22,Plant B,Maintenance,Reduce changeover time on line 2,Delivery,Completed,T. Ahmed,15961.89,2026-08-13
+KZ-0134,2026-07-23,Plant A,Maintenance,Reduce bag burst in packing area,Energy,Completed,M. Iqbal,2935.83,2026-08-22
+KZ-0152,2026-07-23,Plant C,Maintenance,Shorten kiln warm-up time,Morale,Completed,M. Iqbal,12451.02,2026-07-31
+KZ-0145,2026-07-25,Plant C,Utilities,Reduce material spillage at conveyor transfer,Energy,Completed,M. Iqbal,9301.04,2026-08-15
+KZ-0133,2026-07-27,Plant A,Packing,Reduce compressed-air leakage,Quality,Planned,M. Iqbal,19377.99,
+KZ-0149,2026-07-28,Plant C,Production,Eliminate water leak in utility line,Cost,In Progress,R. Das,16652.73,
+KZ-0151,2026-07-28,Plant C,Quality,Optimize mill feed rate,Delivery,Completed,T. Ahmed,11068.23,2026-08-02
+KZ-0165,2026-08-02,Plant B,Quality,Optimize mill feed rate,Quality,Completed,R. Das,13133.88,2026-08-09
+KZ-0166,2026-08-04,Plant B,Utilities,Install visual level indicator on silo,Safety,Planned,S. Roy,737.83,
+KZ-0168,2026-08-04,Plant B,Safety,Reduce bag burst in packing area,Cost,Completed,S. Roy,11535.68,2026-08-27
+KZ-0156,2026-08-06,Plant A,Quality,Optimize lighting schedule in warehouse,Morale,In Progress,M. Iqbal,6651.02,
+KZ-0171,2026-08-07,Plant C,Quality,Standardize shift handover checklist,Cost,Completed,S. Roy,12108.13,2026-09-06
+KZ-0158,2026-08-08,Plant A,Quality,Reduce bag burst in packing area,Quality,Completed,R. Das,21021.16,2026-08-22
+KZ-0175,2026-08-08,Plant C,Safety,Shorten kiln warm-up time,Delivery,Completed,P. Sen,24256.93,2026-08-16
+KZ-0167,2026-08-11,Plant B,Safety,Optimize lighting schedule in warehouse,Quality,Planned,M. Iqbal,8214.14,
+KZ-0170,2026-08-13,Plant B,Safety,Improve sample labelling in quality lab,Delivery,Completed,K. Nair,5710.66,2026-08-27
+KZ-0161,2026-08-14,Plant A,Production,Improve pallet stacking method,Delivery,Completed,R. Das,21897.26,2026-08-21
+KZ-0173,2026-08-15,Plant C,Production,Shorten kiln warm-up time,Quality,In Progress,T. Ahmed,7005.35,
+KZ-0169,2026-08-17,Plant B,Utilities,Optimize lighting schedule in warehouse,Cost,Completed,R. Das,20263.47,2026-08-22
+KZ-0157,2026-08-18,Plant A,Maintenance,Optimize lighting schedule in warehouse,Safety,In Progress,M. Iqbal,21773.51,
+KZ-0162,2026-08-19,Plant A,Production,Optimize mill feed rate,Morale,In Progress,K. Nair,3567.27,
+KZ-0174,2026-08-20,Plant C,Utilities,Improve sample labelling in quality lab,Delivery,In Progress,R. Das,15304.58,
+KZ-0176,2026-08-20,Plant C,Safety,Standardize shift handover checklist,Cost,Completed,R. Das,605.52,2026-08-30
+KZ-0160,2026-08-21,Plant A,Quality,Optimize mill feed rate,Morale,Completed,M. Iqbal,16903.64,2026-08-29
+KZ-0164,2026-08-24,Plant B,Utilities,Install visual level indicator on silo,Quality,Completed,S. Roy,2053.07,2026-09-15
+KZ-0172,2026-08-25,Plant C,Safety,Reduce material spillage at conveyor transfer,Morale,Completed,S. Roy,19868.71,2026-09-09
+KZ-0154,2026-08-26,Plant A,Quality,Eliminate water leak in utility line,Delivery,Completed,T. Ahmed,15481.72,2026-09-02
+KZ-0155,2026-08-27,Plant A,Quality,Improve pallet stacking method,Cost,Completed,M. Iqbal,862.92,2026-09-26
+KZ-0159,2026-08-28,Plant A,Production,Optimize lighting schedule in warehouse,Quality,Completed,T. Ahmed,17136.48,2026-09-19
+KZ-0163,2026-08-28,Plant B,Safety,Install visual level indicator on silo,Morale,Planned,M. Iqbal,22265.58,
+KZ-0177,2026-09-01,Plant A,Packing,Reduce compressed-air leakage,Quality,Completed,R. Das,17719.17,2026-09-19
+KZ-0181,2026-09-01,Plant A,Quality,Improve sample labelling in quality lab,Delivery,Completed,T. Ahmed,15186.45,2026-09-20
+KZ-0184,2026-09-01,Plant A,Packing,Reduce material spillage at conveyor transfer,Safety,Planned,R. Das,11390.64,
+KZ-0188,2026-09-01,Plant B,Quality,Improve pallet stacking method,Cost,Completed,R. Das,23647.92,2026-09-08
+KZ-0179,2026-09-03,Plant A,Utilities,Standardize shift handover checklist,Energy,Completed,S. Roy,7735.41,2026-09-25
+KZ-0187,2026-09-03,Plant B,Safety,Standardize shift handover checklist,Safety,Completed,R. Das,7311.78,2026-09-26
+KZ-0183,2026-09-09,Plant A,Production,Install visual level indicator on silo,Quality,Completed,T. Ahmed,20299.03,2026-09-28
+KZ-0194,2026-09-13,Plant C,Maintenance,Optimize lighting schedule in warehouse,Delivery,Planned,P. Sen,3235.87,
+KZ-0198,2026-09-13,Plant C,Safety,Shorten kiln warm-up time,Morale,In Progress,M. Iqbal,21711.04,
+KZ-0192,2026-09-16,Plant B,Production,Shorten kiln warm-up time,Energy,In Progress,M. Iqbal,9324.73,
+KZ-0178,2026-09-18,Plant A,Packing,Shorten kiln warm-up time,Safety,Completed,P. Sen,20994.64,2026-10-08
+KZ-0182,2026-09-18,Plant A,Safety,Reduce changeover time on line 2,Morale,Completed,K. Nair,7154.78,2026-10-13
+KZ-0196,2026-09-19,Plant C,Packing,Optimize lighting schedule in warehouse,Quality,In Progress,S. Roy,12910.89,
+KZ-0190,2026-09-22,Plant B,Quality,Install visual level indicator on silo,Morale,In Progress,P. Sen,10475.35,
+KZ-0191,2026-09-23,Plant B,Quality,Eliminate water leak in utility line,Quality,Planned,K. Nair,24648.14,
+KZ-0197,2026-09-23,Plant C,Maintenance,Optimize lighting schedule in warehouse,Morale,In Progress,S. Roy,21222.04,
+KZ-0195,2026-09-24,Plant C,Packing,Shorten kiln warm-up time,Safety,Completed,T. Ahmed,5803.17,2026-10-19
+KZ-0185,2026-09-25,Plant A,Safety,Reduce material spillage at conveyor transfer,Cost,In Progress,K. Nair,22732.6,
+KZ-0193,2026-09-25,Plant C,Safety,Reduce changeover time on line 2,Morale,Completed,M. Iqbal,9925.81,2026-10-19
+KZ-0180,2026-09-26,Plant A,Maintenance,Standardize shift handover checklist,Safety,Completed,T. Ahmed,23310.01,2026-10-11
+KZ-0186,2026-09-26,Plant B,Packing,Improve sample labelling in quality lab,Safety,Completed,R. Das,23323.65,2026-10-02
+KZ-0189,2026-09-26,Plant B,Packing,Reduce material spillage at conveyor transfer,Cost,Completed,M. Iqbal,6192.87,2026-10-19
+KZ-0214,2026-10-03,Plant B,Production,Reduce bag burst in packing area,Energy,In Progress,P. Sen,14123.01,
+KZ-0220,2026-10-03,Plant C,Utilities,Improve sample labelling in quality lab,Quality,In Progress,M. Iqbal,1014.29,
+KZ-0218,2026-10-04,Plant C,Safety,Shorten kiln warm-up time,Energy,Completed,T. Ahmed,21473.92,2026-10-23
+KZ-0215,2026-10-05,Plant B,Maintenance,Improve sample labelling in quality lab,Cost,In Progress,P. Sen,24302.08,
+KZ-0217,2026-10-05,Plant C,Production,Reduce bag burst in packing area,Cost,Completed,P. Sen,6928.78,2026-10-16
+KZ-0200,2026-10-07,Plant A,Packing,Reduce changeover time on line 2,Delivery,In Progress,T. Ahmed,23462.03,
+KZ-0221,2026-10-07,Plant C,Utilities,Optimize lighting schedule in warehouse,Delivery,In Progress,S. Roy,3478.32,
+KZ-0207,2026-10-08,Plant A,Packing,Optimize lighting schedule in warehouse,Safety,Completed,P. Sen,13754.66,2026-10-17
+KZ-0213,2026-10-09,Plant B,Safety,Reduce changeover time on line 2,Energy,Planned,K. Nair,2506.57,
+KZ-0203,2026-10-11,Plant A,Utilities,Improve sample labelling in quality lab,Morale,Completed,M. Iqbal,23394.34,2026-11-07
+KZ-0204,2026-10-12,Plant A,Packing,Improve pallet stacking method,Delivery,In Progress,M. Iqbal,20580.45,
+KZ-0219,2026-10-12,Plant C,Safety,Standardize shift handover checklist,Safety,Planned,K. Nair,3893.32,
+KZ-0208,2026-10-13,Plant B,Utilities,Eliminate water leak in utility line,Cost,Planned,S. Roy,3590.51,
+KZ-0210,2026-10-13,Plant B,Production,Reduce bag burst in packing area,Energy,Planned,R. Das,19702.4,
+KZ-0222,2026-10-13,Plant C,Safety,Optimize lighting schedule in warehouse,Quality,Completed,R. Das,4310.75,2026-11-07
+KZ-0201,2026-10-14,Plant A,Utilities,Install visual level indicator on silo,Safety,Completed,T. Ahmed,21881.48,2026-10-30
+KZ-0212,2026-10-14,Plant B,Utilities,Reduce material spillage at conveyor transfer,Quality,Completed,K. Nair,6819.11,2026-10-21
+KZ-0223,2026-10-14,Plant C,Safety,Install visual level indicator on silo,Delivery,Completed,K. Nair,6349.03,2026-10-22
+KZ-0225,2026-10-14,Plant C,Maintenance,Shorten kiln warm-up time,Morale,Completed,P. Sen,2159.14,2026-10-26
+KZ-0224,2026-10-17,Plant C,Utilities,Reduce changeover time on line 2,Safety,Completed,T. Ahmed,21266.61,2026-11-11
+KZ-0199,2026-10-18,Plant A,Quality,Optimize lighting schedule in warehouse,Safety,Completed,M. Iqbal,7200.25,2026-10-25
+KZ-0202,2026-10-18,Plant A,Maintenance,Optimize mill feed rate,Energy,Completed,R. Das,10020.24,2026-11-11
+KZ-0205,2026-10-18,Plant A,Packing,Reduce bag burst in packing area,Safety,In Progress,S. Roy,16734.23,
+KZ-0206,2026-10-18,Plant A,Quality,Reduce material spillage at conveyor transfer,Safety,In Progress,M. Iqbal,15182.84,
+KZ-0209,2026-10-18,Plant B,Production,Reduce compressed-air leakage,Safety,In Progress,K. Nair,23135.96,
+KZ-0211,2026-10-18,Plant B,Safety,Optimize lighting schedule in warehouse,Safety,In Progress,R. Das,20540.42,
+KZ-0216,2026-10-18,Plant B,Safety,Install visual level indicator on silo,Energy,Completed,K. Nair,21391.09,2026-10-24

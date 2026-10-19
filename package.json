@@ -1,0 +1,12 @@
+{
+  "name": "vertex-opex-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fictional OPEX demo dashboard and chatbot with synthetic data",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}

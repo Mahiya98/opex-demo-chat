@@ -1,0 +1,171 @@
+{
+  "5s": {
+    "general": [
+      "Focus on the weakest S first; it moves the overall score fastest.",
+      "Set a 30-day target per zone and re-audit weekly.",
+      "Assign a named owner for each zone.",
+      "Post scores and before/after photos on the zone board."
+    ],
+    "dimensions": {
+      "sort": [
+        "Run a red-tag campaign and dispose of tagged items within 7 days.",
+        "Mark approved locations on the floor with the operators.",
+        "Do a 15-minute weekly sweep per zone.",
+        "Assign one owner per zone for red-tag follow-up."
+      ],
+      "order": [
+        "Use shadow boards and labelled locations for tools.",
+        "Set min/max levels for consumables.",
+        "Introduce a 5-minute end-of-shift reset.",
+        "Remove items that block access during a layout walk."
+      ],
+      "shine": [
+        "Create a cleaning roster with a named owner per zone.",
+        "Use before/after photo standards.",
+        "Add a cleaning checklist at shift start and sign-off at shift end.",
+        "Fix the source of dust or leaks instead of cleaning repeatedly."
+      ],
+      "standardize": [
+        "Publish a one-page visual standard per zone.",
+        "Align the audit checklist with the visual standard.",
+        "Use colour coding for storage and inspection points.",
+        "Train new staff on the zone standard before they start."
+      ],
+      "sustain": [
+        "Run weekly audits with rotating auditors.",
+        "Display results and actions on the zone board.",
+        "Convert repeat findings into cards with owners and dates.",
+        "Add a short 5S review to the daily meeting."
+      ]
+    }
+  },
+  "qcp": {
+    "general": [
+      "Stratify failures by machine, shift and test before acting.",
+      "Fix the highest-volume recurring failure first.",
+      "Add a pre-start check for the tests that fail most.",
+      "Record the corrective action against the failed test."
+    ],
+    "topics": [
+      {
+        "keywords": ["calibration", "calibrat"],
+        "actions": [
+          "Verify calibration status and due dates.",
+          "Add a daily check with a certified reference.",
+          "Log every adjustment and quarantine out-of-calibration instruments.",
+          "Assign an instrument owner and monthly review."
+        ]
+      },
+      {
+        "keywords": ["moisture", "drying", "dryer"],
+        "actions": [
+          "Check dryer temperature and retention time.",
+          "Verify the moisture meter against a reference.",
+          "Standardise sampling point and timing across shifts.",
+          "Trend moisture by shift and machine."
+        ]
+      },
+      {
+        "keywords": ["fineness", "residue", "mill"],
+        "actions": [
+          "Check mill feed rate and separator settings.",
+          "Verify sample preparation and sieving time.",
+          "Compare results across shifts on the same mill.",
+          "Review mill internals and ball charge during the next stop."
+        ]
+      },
+      {
+        "keywords": ["strength", "compressive"],
+        "actions": [
+          "Verify specimen preparation and curing conditions.",
+          "Check the lab press calibration.",
+          "Compare raw-material lots around failures.",
+          "Retain a repeat sample for confirmation."
+        ]
+      },
+      {
+        "keywords": ["weight", "packing", "bag"],
+        "actions": [
+          "Check filler calibration and tare before the run.",
+          "Sample start, middle and end of shift.",
+          "Log every adjustment with time and operator.",
+          "Review fill-head performance by machine."
+        ]
+      }
+    ]
+  },
+  "production": {
+    "general": [
+      "Compare planned vs actual at line and shift level before acting.",
+      "Check changeover and start-up losses first.",
+      "Separate availability losses from rate and quality losses.",
+      "Fix the largest loss category before adding capacity."
+    ],
+    "topics": [
+      {
+        "keywords": ["shortfall", "plan", "attainment"],
+        "actions": [
+          "Review shift start-up and changeover time against standard.",
+          "Check feed rate and raw-material availability.",
+          "Remove the top downtime cause for the line.",
+          "Set a daily recovery target with the shift team."
+        ]
+      },
+      {
+        "keywords": ["reject", "quality", "scrap"],
+        "actions": [
+          "Stratify rejects by product, line and shift.",
+          "Verify process parameters against the recipe.",
+          "Check incoming material lots.",
+          "Add an in-process check at the highest-loss point."
+        ]
+      },
+      {
+        "keywords": ["cost", "variance"],
+        "actions": [
+          "Split cost variance into energy, material and maintenance.",
+          "Check specific energy consumption per tonne.",
+          "Review overtime and contractor spend.",
+          "Set a monthly cost-per-tonne target by plant."
+        ]
+      }
+    ]
+  },
+  "downtime": {
+    "general": [
+      "Rank downtime by total hours, not by number of events.",
+      "Investigate the top three machines first.",
+      "Add preventive tasks for repeating causes.",
+      "Track mean time to repair for each major machine."
+    ],
+    "topics": [
+      {
+        "keywords": ["mechanical", "bearing", "belt", "coupling"],
+        "actions": [
+          "Add vibration and temperature checks to the PM route.",
+          "Check alignment and belt tension after every intervention.",
+          "Hold critical spares for the top recurring items.",
+          "Review the PM frequency against failure history."
+        ]
+      },
+      {
+        "keywords": ["electrical", "motor", "power", "trip"],
+        "actions": [
+          "Thermographically scan panels and connections.",
+          "Clean and torque panel connections during stops.",
+          "Check motor load and protection settings.",
+          "Log every trip with the operating condition."
+        ]
+      },
+      {
+        "keywords": ["blocked", "chute", "conveyor", "operational"],
+        "actions": [
+          "Inspect chute liners and transfer points.",
+          "Add a blockage-prevention check to the shift routine.",
+          "Review material moisture and feed consistency.",
+          "Train operators on the correct restart procedure."
+        ]
+      }
+    ]
+  }
+}

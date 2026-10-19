@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: vertex-opex-chat
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node server.js
+    envVars:
+      - key: NODE_VERSION
+        value: 20.18.0
+      - key: HOST
+        value: 0.0.0.0
+      - key: LLM_BASE_URL
+        value: https://api.groq.com/openai/v1
+      - key: LLM_MODEL
+        value: openai/gpt-oss-120b
+      - key: LLM_API_KEY
+        sync: false
+      - key: DEMO_SHEETS_JSON_URL
+        sync: false
